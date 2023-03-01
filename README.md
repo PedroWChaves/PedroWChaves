@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PedroWChaves
-- 👀 I’m interested mostly in Python
-- 🌱 I’m currently learning to develop apps with kivy and kivymd
+- 👀 I’m interested mostly in React and React Native
+- 🌱 I’m currently developing apps for android and web
 - 📫 You can send me an e-mail at pedrodlmchaves@gmail.com
 
 <!---
